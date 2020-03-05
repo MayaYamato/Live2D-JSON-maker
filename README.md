@@ -1,7 +1,7 @@
 # Live2D_JSON_maker
 This tool makes model.json (Live2D)
 
-# HOW To Use
+# How To Use
 Make the directory structure like this, <br>
 Just launch the exe file. <br>
 
