@@ -11,6 +11,6 @@ Live2D<br>
  └ folderB<br>
  └ :<br>
 
-※Folder A, B... are folders with arbitrary names and folders containing all Live2D files.
+※Folder A, B... are folders with arbitrary names and folders containing all Live2D files.<br>
 ※If you can't understand, please come to my blog. <br>
 ⇒ https://raspberrypi422.mydns.jp/
